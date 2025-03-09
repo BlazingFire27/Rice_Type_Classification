@@ -23,12 +23,12 @@ The following plots illustrate the training and validation performance of the ne
 
 ### Model Accuracy
 
-![Model Accuracy Plot](images/Training_and_Validation_Accuracy.png)
+![Model Accuracy Plot](Images/Training_and_Validation_Accuracy.png)
 
 This plot shows the training and validation accuracy over the epochs.
 
 ### Model Loss
 
-![Model Loss Plot](images/Training_and_Validation_Loss.png)
+![Model Loss Plot](Images/Training_and_Validation_Loss.png)
 
 This plot shows the training and validation loss over the epochs.
